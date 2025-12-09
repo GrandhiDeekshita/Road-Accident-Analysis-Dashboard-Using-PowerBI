@@ -27,6 +27,7 @@ State-wise filtering for deeper insights
 It is designed to support decision-making related to road safety, traffic planning, and risk reduction strategies.
 
 📂 Key Features
+
 ✔️ 1. KPI Highlights
 
 Total Accidents
